@@ -29,6 +29,6 @@
 
 <p align="left">
   <a href="https://devicons.dev.br/">
-    <img src="https://devicons.dev.br/icons?icon=JavaScript&theme=dark" />
+    <img src="https://devicons.dev.br/icons?icon=JavaScript,NodeJS&theme=dark" />
   </a>
 </p>
